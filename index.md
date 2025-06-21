@@ -1,23 +1,30 @@
 ![swarmaware 2025](banner.jpg)
 
-# SwarmAware 2025
+# SwarmAware 2025 - Workshop on Trustworthy, Decentralized Computing at the Intelligent Edge
 
-*Trustworthy, Decentralized Computing at the Intelligent Edge*  
-Workshop • **29 September 2025** • Co‑located with **SRDS 2025**
+SwarmAware 2025 is a workshop of [SRDS 2025](https://srds-conference.org/), the 44th International Symposium on Reliable Distributed Systems.
 
-[Jump to **Call for Papers »**](#scope--call-for-papers)
+### Quick Links:
 
----
+* [Scope & Call for Papers](#scope--call-for-papers) 
+* [Important Dates](#important-dates)
+* [Submission Guidelines](#submission-guidelines)  
+* [Organizing Committee](#organizing-committee)  
+* [Program Committee](#program-committee)
 
-## Table of Contents
+## Scope & Call for Papers
 
-1. [Important Dates](#important-dates)  
-2. [Scope & Call for Papers](#scope--call-for-papers)  
-3. [Submission Guidelines](#submission-guidelines)  
-4. [Organizing Committee](#organizing-committee)  
-5. [Program Committee](#program-committee)
+Today’s data‑centric distributed systems are evolving into large‑scale, highly heterogeneous **edge swarms** that must operate autonomously, preserve data sovereignty, and be demonstrably trustworthy. **SwarmAware** brings together researchers and practitioners exploring new programming paradigms, middleware, verification techniques, and real‑world deployments that make decentralized, adaptive edge intelligence safe and reliable.
 
----
+### Topics of interest include (but are not limited to)
+
+- Trust and explainability in swarm intelligence
+- Formal methods for decentralized systems
+- Edge/IoT orchestration and federation
+- Self‑adaptive and self‑healing architectures
+- Swarm learning, federated learning, and collective perception
+- Blockchain & DLT for trustworthy autonomy
+- Testbeds, benchmarks, and real‑world case studies
 
 ## Important Dates
 
