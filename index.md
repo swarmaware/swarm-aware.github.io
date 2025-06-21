@@ -39,7 +39,7 @@ The SwarmAware workshop will convene interdisciplinary communities to address fo
 * Trustworthy swarm-based monitoring and resource coordination across heterogeneous infrastructures
 * Swarm-enabled decision support systems for high-stakes AI applications in domains such as algorithmic hiring, digital voting, and risk-based rankings
 
-### Important Dates
+## Important Dates
 
 | Deadline | Date |
 | --- | --- |
@@ -48,7 +48,7 @@ The SwarmAware workshop will convene interdisciplinary communities to address fo
 | **Camera‑ready Deadline** | 31 July 2025 |
 | **Workshop** | 29 September 2025 |
 
-## Submission and Publication
+## Submission Guidelines
 
 ### Categories of Papers
 
@@ -66,9 +66,6 @@ Please note that talk abstracts and Posters submitted solely for presentation pu
 ### Submission Platform
 EasyChair submission system (to appear soon).
 
-## Submission Guidelines
-
-
 ## Organizing Committee
 
 | Name | Affiliation | Contact |
@@ -77,9 +74,7 @@ EasyChair submission system (to appear soon).
 | **Carla Ferreira** | NOVA University Lisbon, Portugal | [Email](mailto:carla.ferreira@fct.unl.pt) |
 | **Akis Kourtis** | NCSR Demokritos, Greece | [Email](mailto:akis.kourtis@iit.demokritos.gr) |
 
----
-
-## Program Committee *(confirmed so far)*
+## Program Committee
 
 * João Leitão (NOVA University Lisbon, Portugal)
 * Miloš Simić (University of Novi Sad, Serbia)
