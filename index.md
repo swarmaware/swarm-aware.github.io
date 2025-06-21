@@ -39,7 +39,16 @@ The SwarmAware workshop will convene interdisciplinary communities to address fo
 * Trustworthy swarm-based monitoring and resource coordination across heterogeneous infrastructures
 * Swarm-enabled decision support systems for high-stakes AI applications in domains such as algorithmic hiring, digital voting, and risk-based rankings
 
-## Important Dates
+## Submission and Publication
+
+### Categories of Papers
+
+#### Main workshop
+* __Full Papers__ 5–10 pages (excluding references), double-blind, original research.
+
+#### Open Floor Session (SwarmAware Agora)
+* __Talk Proposals, Swarm Demos & Live Prototypes__ 1-page abstract with speaker background, context, and links to related work or prior talks. It is encouraged the submissions from projects or teams that wish to showcase live demonstrations of swarm-aware systems and tools. These demos will be featured during the SwarmAware Agora session, offering a hands-on opportunity to engage with cutting-edge prototypes and experimental platforms.
+* __Posters__ 1–2 page extended abstract describing the idea, concept, or European project, along with initial or ongoing results.
 
 | Deadline | Date |
 | --- | --- |
