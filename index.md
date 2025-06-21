@@ -105,6 +105,8 @@ EasyChair submission system (to appear soon).
 * Christos Kouloumentas (Optagon Photonics, Greece)
 * Enrique Areizaga Sanchez (TECNALIA, Spain)
 
+***
+
 ### Workshop Schedule
 The full agenda of the SwarmAware Workshop, including session times, paper presentations, invited talks, and interactive activities, will be published shortly. Participants are kindly invited to revisit this section for the official schedule as the event date approaches. 
 
