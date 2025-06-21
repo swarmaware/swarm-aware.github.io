@@ -14,17 +14,30 @@ SwarmAware 2025 is a workshop of [SRDS 2025](https://srds-conference.org/), the 
 
 ## Scope & Call for Papers
 
-Today’s data‑centric distributed systems are evolving into large‑scale, highly heterogeneous **edge swarms** that must operate autonomously, preserve data sovereignty, and be demonstrably trustworthy. **SwarmAware** brings together researchers and practitioners exploring new programming paradigms, middleware, verification techniques, and real‑world deployments that make decentralized, adaptive edge intelligence safe and reliable.
+Today’s data-centric distributed systems are evolving into large-scale, highly dynamic swarms of autonomous devices and services that span the IoT–edge–cloud continuum. From resource-constrained sensors with intermittent connectivity to powerful, stable data centers, these hybrid environments pose new challenges for dependability, correctness, security, privacy, and real-time operation—especially in safety-critical and industrial domains. Swarm applications must therefore support decentralized coordination and dynamic orchestration, tolerate and recover from faults, self-heal, predict and detect failures, and adaptively manage resources, all while enabling distributed data storage, processing, and AI/ML acceleration.
+Our workshop will bring together researchers and practitioners to tackle these challenges head-on. We invite contributions on both practical and theoretical approaches for designing, implementing, verifying, and operating dependable, secure, and decentralized systems in modern computing ecosystems.
+By co-locating with SRDS 2025, we underscore our shared commitment to advancing dependability, correctness, and security in swarm-based distributed systems. This workshop is organized in the context of the Horizon Europe Swarm projects P2CODE, TaRDIS, and OASEES.
 
-### Topics of interest include (but are not limited to)
-
-- Trust and explainability in swarm intelligence
-- Formal methods for decentralized systems
-- Edge/IoT orchestration and federation
-- Self‑adaptive and self‑healing architectures
-- Swarm learning, federated learning, and collective perception
-- Blockchain & DLT for trustworthy autonomy
-- Testbeds, benchmarks, and real‑world case studies
+### Topics of interest
+The SwarmAware workshop will convene interdisciplinary communities to address foundational and practical challenges in building such systems. Topics include, but are not limited to:
+* Decentralized coordination and consensus mechanisms
+* Fault tolerance, recovery, and self-healing in swarm systems
+* Real-time guarantees and resource management at the edge
+* Federated, privacy-preserving, and explainable AI for swarms
+* Swarm-based decision support and context-aware orchestration
+* Secure and resilient distributed computing for cyber-physical systems
+* Verification and formal methods for dependable swarms
+* Interoperability and semantics in heterogeneous swarm environments
+* Human-in-the-loop and neurosymbolic models for swarm control
+* AI adaptability in telecom, 5G/6G, and large-scale network infrastructures
+* Edge-AI Optical Circuits for Decentralized Broadband Access Networks
+* Edge-AI applications in healthcare and bioengineering (e.g., diagnostics, monitoring, personalized care)
+* Edge AI models in medical robotics and biosensor coordination 
+* Data engineering architectures and pipelines for decentralized learning and analytics
+* Workflow orchestration and compliance in health-critical data processing systems
+* Scalable swarm intelligence frameworks for smart cities, mobility, and industrial automation
+* Trustworthy swarm-based monitoring and resource coordination across heterogeneous infrastructures
+* Swarm-enabled decision support systems for high-stakes AI applications in domains such as algorithmic hiring, digital voting, and risk-based rankings
 
 ## Important Dates
 
@@ -37,23 +50,10 @@ Today’s data‑centric distributed systems are evolving into large‑scale, hi
 
 <sub>* aligns with the SRDS main‑conference deadline</sub>
 
----
-
-## Scope & Call for Papers
-
-Today’s data‑centric distributed systems are evolving into large‑scale, highly heterogeneous **edge swarms** that must operate autonomously, preserve data sovereignty, and be demonstrably trustworthy. **SwarmAware** brings together researchers and practitioners exploring new programming paradigms, middleware, verification techniques, and real‑world deployments that make decentralized, adaptive edge intelligence safe and reliable.
 
 ### Topics of interest include (but are not limited to)
 
-- Trust and explainability in swarm intelligence
-- Formal methods for decentralized systems
-- Edge/IoT orchestration and federation
-- Self‑adaptive and self‑healing architectures
-- Swarm learning, federated learning, and collective perception
-- Blockchain & DLT for trustworthy autonomy
-- Testbeds, benchmarks, and real‑world case studies
 
----
 
 ## Submission Guidelines
 
