@@ -1,3 +1,16 @@
+<div style="position: relative; text-align: center;">
+  <img src="banner.png" alt="SwarmAware 2025 banner" style="width: 100%; height: auto;" />
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white;">
+    <h1 style="font-size: 3rem; margin: 0; padding: 0.25em 0.5em; background: rgba(0,0,0,0.45); border-radius: 0.5em;">
+      SwarmAware&nbsp;2025
+    </h1>
+    <p style="font-size: 1.25rem; margin: 0.5em 0 0; background: rgba(0,0,0,0.45); padding: 0.25em 0.5em; border-radius: 0.5em;">
+      Workshop on Trustworthy, Decentralized Computing at the Intelligent Edge<br/>
+      29&nbsp;September 2025 • Co‑located with SRDS 2025
+    </p>
+  </div>
+</div>
+
 # SwarmAware 2025
 
 *Trustworthy, Decentralized Computing at the Intelligent Edge*  
