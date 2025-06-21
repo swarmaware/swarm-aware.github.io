@@ -1,5 +1,5 @@
 <div style="position: relative; text-align: center;">
-  <img src="banner.png" alt="SwarmAware 2025 banner" style="width: 100%; height: auto;" />
+  <img src="banner.jpg" alt="SwarmAware 2025 banner" style="width: 100%; height: auto;" />
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white;">
     <h1 style="font-size: 3rem; margin: 0; padding: 0.25em 0.5em; background: rgba(0,0,0,0.45); border-radius: 0.5em;">
       SwarmAware&nbsp;2025
