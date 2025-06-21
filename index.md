@@ -44,11 +44,18 @@ The SwarmAware workshop will convene interdisciplinary communities to address fo
 ### Categories of Papers
 
 #### Main workshop
-* __Full Papers__ 5–10 pages (excluding references), double-blind, original research.
+* __Full Papers:__ 5–10 pages (excluding references), double-blind, original research.
 
 #### Open Floor Session (SwarmAware Agora)
-* __Talk Proposals, Swarm Demos & Live Prototypes__ 1-page abstract with speaker background, context, and links to related work or prior talks. It is encouraged the submissions from projects or teams that wish to showcase live demonstrations of swarm-aware systems and tools. These demos will be featured during the SwarmAware Agora session, offering a hands-on opportunity to engage with cutting-edge prototypes and experimental platforms.
-* __Posters__ 1–2 page extended abstract describing the idea, concept, or European project, along with initial or ongoing results.
+* __Talk Proposals, Swarm Demos & Live Prototypes:__ 1-page abstract with speaker background, context, and links to related work or prior talks. It is encouraged the submissions from projects or teams that wish to showcase live demonstrations of swarm-aware systems and tools. These demos will be featured during the SwarmAware Agora session, offering a hands-on opportunity to engage with cutting-edge prototypes and experimental platforms.
+* __Posters:__ 1–2 page extended abstract describing the idea, concept, or European project, along with initial or ongoing results.
+
+### Publication Policy
+Accepted full papers will be published under the same conditions as the main SRDS conference proceedings.
+Please note that talk abstracts and Posters submitted solely for presentation purposes will not be published but will be featured in a dedicated talk or poster session during the workshop.
+
+### Submission Platform
+EasyChair submission system
 
 | Deadline | Date |
 | --- | --- |
@@ -93,25 +100,41 @@ Both categories should follow the standard **ACM sigconf** format, be **anonymo
 
 ## Program Committee *(confirmed so far)*
 
-- João Leitão — NOVA University Lisbon, Portugal
-- Miloš Simić — University of Novi Sad, Serbia
-- Akis Kourtis — NCSR "Demokritos", Greece
-- George Xilouris — NCSR "Demokritos", Greece
-- Giorgia Azzurra Marson — NEC Laboratories Europe, Switzerland
-- George Alexandridis — National & Kapodistrian University of Athens, Greece
-- Wouter Tavernier — imec, Belgium
-- Achilleas Marinakis — OTE Group, Greece
-- George Kousiouris — Harokopio University of Athens, Greece
-- George Manias — Tilburg University, Netherlands
-- Kristina Livitckaia — CERTH, Greece
-- Shahab Heshmati Alamdari — Aalborg University, Denmark
-- Alexandros Nizamis — CERTH, Greece
-- Anna Gatzioura — Universitat Pompeu Fabra, Spain
-- Efstathios Skarlatos — KEMEA, Greece
+* João Leitão (NOVA University Lisbon, Portugal)
+* Miloš Simić (University of Novi Sad, Serbia)
+* Akis Kourtis (National Centre of Scientific Research "Demokritos”, Greece)
+* George Xilouris (National Centre of Scientific Research "Demokritos”, Greece)
+* Giorgia Azzurra Marson (NEC Laboratories Europe, Switzerland)
+* George Alexandridis (National and Kapodistrian University of Athens, Greece)
+* Wouter Tavernier (imec, Belgium)
+* Achilleas Marinakis (OTE Group, Greece)
+* George Kousiouris (Harokopio University of Athens, Greece)
+* George Manias (Tilburg University, Netherlands)
+* Kristina Livitckaia (CERTH, Greece)
+* Shahab Heshmati Alamdari (Aalborg University, Denmark)
+* Alexandros Nizamis (CERTH, Greece)
+* Anna Gatzioura (UPF, Spain)
+* Efstathios Skarlatos (KEMEA, Greece)
+* Fatouros (Alpha Tensor, UK)
+* Dimitrios Klonidis (Ubitech, Greece)
+* Christos Angelopoulos (NVIDIA, USA)
+* Ilias Spais (AEGIS, Germany)
+* Andreas Menychtas (UNIPI, Greece)
+* Jordi Arjona Aroca (ITI, Spain)
+* Androniki Tzomaka (Special Secretariat of Foresight, Hellenic Republic, Greece)
+* Panagiotis Groumas (ICCS, Greece)
+* Dimitrios Liapis (UBS , Switzerland)
+* Dimitris Kalavrouziotis (NVIDIA, Greece)
+* Matteo Falsetta (GFT, Italy)
+* Christos Kouloumentas (Optagon Photonics, Greece)
+* Enrique Areizaga Sanchez (TECNALIA, Spain)
 
-> *More PC members will be announced as they confirm.*
+### Workshop Schedule
+The full agenda of the SwarmAware Workshop, including session times, paper presentations, invited talks, and interactive activities, will be published shortly. Participants are kindly invited to revisit this section for the official schedule as the event date approaches. 
 
----
+### Logistics & Venue
+Comprehensive information regarding the venue, travel arrangements, accommodation options, and registration procedures is available on the official website of the 44th International Symposium on Reliable Distributed Systems (SRDS 2025): https://srds-conference.org/. Participants are kindly advised to refer to the conference website for the most up-to-date logistical details pertaining to the event in Porto, Portugal.
 
-© 2025 SwarmAware Workshop Committee — part of the **25th International Symposium on Reliable Distributed Systems (SRDS 2025)**
+### Sponsoring Projects & Acknowledgements
+The SwarmAware Workshop is supported by the European Union through funding from the Horizon Europe research and innovation programme. This initiative is organized in collaboration with the Horizon Europe projects P2CODE, TaRDIS, and OASEES, which contribute to the advancement of dependable, decentralized, and intelligent edge computing systems.
 
