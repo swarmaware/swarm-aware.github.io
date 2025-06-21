@@ -64,31 +64,17 @@ Accepted full papers will be published under the same conditions as the main SRD
 Please note that talk abstracts and Posters submitted solely for presentation purposes will not be published but will be featured in a dedicated talk or poster session during the workshop.
 
 ### Submission Platform
-EasyChair submission system.
+EasyChair submission system (to appear soon).
 
 ## Submission Guidelines
 
-We welcome:
-
-- **Regular research papers** — *up to 8 pages*
-- **Position / vision papers** — *up to 4 pages*
-
-Both categories should follow the standard **ACM sigconf** format, be **anonymous**, and will undergo **double‑blind** review by at least three experts.
-
-- Submit PDFs via **EasyChair** → <https://easychair.org/conferences/?conf=swarmaware2025>
-- Accepted papers will be published in the **ACM Digital Library**
-- *At least one author of each accepted paper must register and present in person or remotely*
-
----
 
 ## Organizing Committee
-
-### Workshop Co‑Chairs
 
 | Name | Affiliation | Contact |
 | --- | --- | --- |
 | **Vrettos Moulos** | Arηs Group – ARHS (part of Accenture), Greece | [Email](mailto:Vrettos.Moulos@arhs-dev-hellas.com) |
-| **Carla Ferreira** | NOVA University Lisbon, Portugal | [Email](mailto:carla.ferreira@fct.unl.pt) · [Website](http://www-ctp.di.fct.unl.pt/~cf/) |
+| **Carla Ferreira** | NOVA University Lisbon, Portugal | [Email](mailto:carla.ferreira@fct.unl.pt) |
 | **Akis Kourtis** | NCSR Demokritos, Greece | [Email](mailto:akis.kourtis@iit.demokritos.gr) |
 
 ---
