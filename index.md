@@ -39,6 +39,15 @@ The SwarmAware workshop will convene interdisciplinary communities to address fo
 * Trustworthy swarm-based monitoring and resource coordination across heterogeneous infrastructures
 * Swarm-enabled decision support systems for high-stakes AI applications in domains such as algorithmic hiring, digital voting, and risk-based rankings
 
+### Important Dates
+
+| Deadline | Date |
+| --- | --- |
+| **Paper Submission** | 11 July 2025 |
+| **Notification to Authors** | 25 July 2025 |
+| **Camera‑ready Deadline** | 31 July 2025 |
+| **Workshop** | 29 September 2025 |
+
 ## Submission and Publication
 
 ### Categories of Papers
@@ -55,21 +64,7 @@ Accepted full papers will be published under the same conditions as the main SRD
 Please note that talk abstracts and Posters submitted solely for presentation purposes will not be published but will be featured in a dedicated talk or poster session during the workshop.
 
 ### Submission Platform
-EasyChair submission system
-
-| Deadline | Date |
-| --- | --- |
-| **Paper Submission** | 21 July 2025 |
-| **Notification to Authors** | 11 August 2025 |
-| **Camera‑Ready & Registration** | 7 July 2025* |
-| **Workshop** | 29 September 2025 |
-
-<sub>* aligns with the SRDS main‑conference deadline</sub>
-
-
-### Topics of interest include (but are not limited to)
-
-
+EasyChair submission system.
 
 ## Submission Guidelines
 
