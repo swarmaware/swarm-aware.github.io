@@ -6,11 +6,27 @@ SwarmAware 2025 is a workshop of [SRDS 2025](https://srds-conference.org/), the 
 
 ### Quick Links:
 
+* [Program](#Program) 
 * [Scope & Call for Papers](#scope--call-for-papers) 
 * [Important Dates](#important-dates)
 * [Submission Guidelines](#submission-guidelines)  
 * [Organizing Committee](#organizing-committee)  
 * [Program Committee](#program-committee)
+
+## Program 
+
+### Monday September 29th
+| Time   | Session |
+| :---: | :---: |
+| 09:30-09:35 | Welcome | 
+| 09:35-10:30 | [Carlos Baquero](https://cbaquero.github.io/web/):   Efficient Synchronization of Sets and CRDTs | 
+| **10:30-11:00** | **Coffee break** |
+| 11:00-12:00 | Session 1 |
+| 12:00-13:00 | Session 2 |
+| **13:00-14:00** | **Lunch break** |
+| 14:00-16:30   | Session 3 |
+| **16:30** | **Welcome reception** | 
+
 
 ## Scope & Call for Papers
 
