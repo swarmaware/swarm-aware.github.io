@@ -25,7 +25,7 @@ SwarmAware 2025 is a workshop of [SRDS 2025](https://srds-conference.org/), the 
 | **10:30-11:00** | **Coffee break** |
 | 11:00-12:00 | **Session 2 - UAV** |
 | 11:00-11:20 | Integrated Tracking and Peripheral Vision in a UAV Architecture for Search-and-Rescue Operations |
-| 11:20-11:40 | A Scalable Swarm Intelligence Algorithm for Autonomous UAV Search and Rescue Operations |
+| 11:20-11:40 | A Scalable Swarm Intelligence Algorithm for Autonomous UAV Search and Rescue Operations (online) |
 | 11:40-12:00 | A distributed UAV analytics framework for DAO-based swarm systems|
 | 12:00-13:00 | **Session 3 - Use cases** |
 | 12:00-12:30 | P2Code ([https://p2code-project.](https://p2code-project.eu/) |
